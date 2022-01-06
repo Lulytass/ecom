@@ -1,0 +1,27 @@
+{
+  "name": "ecomwebsite",
+  "version": "1.0.0",
+  "description": "ecommerce clothes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucia Soledad Tassi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lulytass/ecom.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "clothes",
+    "ropa",
+    "venta",
+    "comercio",
+    "digital"
+  ],
+  "bugs": {
+    "url": "https://github.com/Lulytass/ecom/issues"
+  },
+  "homepage": "https://github.com/Lulytass/ecom#readme"
+}

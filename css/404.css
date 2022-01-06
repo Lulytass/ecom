@@ -1,0 +1,13 @@
+.cuatrocientoscuatro{
+    display: block;
+    margin: 60px auto;
+}
+.cuatrocientoscuatro-msj{
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+}
+.cuatrocientoscuatro-msj a{
+    color: #383838;
+    font-weight: 700;
+}
